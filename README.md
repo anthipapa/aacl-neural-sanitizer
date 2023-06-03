@@ -1,4 +1,4 @@
-Code associated with the following citation can be found "[here](https://github.com/NorskRegnesentral/NeuralTextSanitizer)".
+Code associated with the following citation can be found [here](https://github.com/NorskRegnesentral/NeuralTextSanitizer).
 
 A novel approach for text sanitization, which is the task of editing a document to mask all (direct and indirect) personal identifiers and thereby conceal the identity of the individuals(s) mentioned in the text. The approach proceeds in three steps:
 1. A neural, privacy-enhanced entity recognizer is first employed to detect and classify potential personal identifiers
